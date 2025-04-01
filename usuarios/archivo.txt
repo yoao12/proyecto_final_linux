@@ -1,0 +1,18 @@
+========== LISTADO DE ARCHIVOS ==========
+Fecha de generación: 2025-06-21 17:10:00
+
+Directorio: /proyecto_final/
+
+- main.sh (Script principal)
+- scripts/
+  - usuarios.sh (Gestión de usuarios y permisos)
+  - logs.sh (Generación y análisis de logs)
+- logs/
+  - eventos.log (Registro de eventos del sistema)
+- usuarios/
+  - lista_usuarios.txt (Usuarios creados en el sistema)
+- respaldo/
+  - backup_20250621.tar.gz (Respaldo de seguridad)
+- README.md (Documentación del proyecto)
+
+Total de archivos: 7

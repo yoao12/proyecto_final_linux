@@ -1,0 +1,20 @@
+========== INFORME DE EVENTOS ==========
+Fecha de análisis: 2025-06-21 17:00:00
+
+Total de errores:
+4
+
+Últimos 5 errores:
+[2025-06-21 16:58:33] USUARIO: admin1 - EVENTO: ERROR
+[2025-06-21 16:59:10] USUARIO: tecnico1 - EVENTO: ERROR
+[2025-06-21 16:59:45] USUARIO: auditor1 - EVENTO: ERROR
+[2025-06-21 16:59:50] USUARIO: admin1 - EVENTO: ERROR
+[2025-06-21 17:00:00] USUARIO: tecnico1 - EVENTO: ERROR
+
+Eventos más frecuentes:
+10 INFO
+8 LOGIN
+6 ERROR
+
+Usuario con más actividad:
+admin1
